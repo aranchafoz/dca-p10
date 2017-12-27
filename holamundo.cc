@@ -2,6 +2,6 @@
 
 main()
 {
-    printf("Adios mundito"
+    printf("Bye bye world"
 
 }
