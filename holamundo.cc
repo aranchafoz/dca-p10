@@ -2,6 +2,6 @@
 
 main()
 {
-    printf("Hola mundo");
+    printf("Hola mundito"
 
 }
